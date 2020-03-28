@@ -1,0 +1,10 @@
+write about structre 
+wite about compute capability
+cores 
+compare it with other GPU features. 
+tensorcores
+gpus under volta arch.
+past gpu arch: pascal (compare them if you want)  
+
+See what TFLOPS means: Tera Floating point operation per second.
+NVLink
